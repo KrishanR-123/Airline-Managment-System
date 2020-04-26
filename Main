@@ -13,12 +13,6 @@ public class Mainframe extends JFrame{
     
     public Mainframe() {
         super("AIRLINE RESERVATION MANAGEMENT SYSTEM");
-        initialize();
-    }
-
-    
-    private void initialize() {
-	
         setForeground(Color.CYAN);
         setLayout(null); 
 
@@ -114,4 +108,7 @@ public class Mainframe extends JFrame{
         setSize(1950,1090);
 	setVisible(true);
     }
+
+    
+   
 }
