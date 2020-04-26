@@ -23,7 +23,7 @@ public class Mainframe extends JFrame{
         setLayout(null); 
 
         JLabel NewLabel = new JLabel("");
-	NewLabel.setIcon(new ImageIcon(ClassLoader.getSystemResource("airline/management/system/icon/front.jpg")));
+	NewLabel.setIcon(new ImageIcon(ClassLoader.getSystemResource("com/company/icons/front.jpg")));
 	NewLabel.setBounds(0, 0, 1920, 990); 
 	add(NewLabel); 
         
