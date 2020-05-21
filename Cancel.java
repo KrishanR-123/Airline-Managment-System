@@ -6,8 +6,8 @@ import java.awt.event.*;
 import java.sql.*;
 
 
-public class Cancel extends JFrame { //Sixth
-    
+public class Cancel extends JFrame { 
+  
     private JTextField textField,textField_1,textField_2,textField_3,textField_4;
 
     public static void main(String[] args) {
